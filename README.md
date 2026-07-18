@@ -398,6 +398,12 @@ This README currently includes **285 ToolsFam tools** grouped by category. For t
 - [UTM Builder](https://toolsfam.com/tools/utm-builder) - Build campaign URLs with source, medium, campaign, term and content parameters.
 - [Open Graph Preview](https://toolsfam.com/tools/open-graph-preview) - Preview title, description and image text for social sharing cards.
 
+## Tool Suites
+
+Comprehensive browser-based tool collections that cover multiple categories.
+
+- [Toolknit](https://toolknit.com) - Free online tools library with 90+ browser-based utilities for PDF, images, video, audio, text, calculators, and more. All tools run locally — no signup, no uploads required.
+
 ## Related ToolsFam resources
 
 - [ToolsFam](https://toolsfam.com) - Privacy-first browser tools for daily developer, document, image, SEO, security and web asset workflows.
