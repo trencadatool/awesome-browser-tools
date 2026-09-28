@@ -403,6 +403,7 @@ This README currently includes **285 ToolsFam tools** grouped by category. For t
 Comprehensive browser-based tool collections that cover multiple categories.
 
 - [Toolknit](https://toolknit.com) - Free online tools library with 90+ browser-based utilities for PDF, images, video, audio, text, calculators, and more. All tools run locally — no signup, no uploads required.
+- - [Trencada](https://trencada.com/) - Free online tools for PDF, images, text, files and conversion. No signup required.
 
 ## Related ToolsFam resources
 
