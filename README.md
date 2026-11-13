@@ -403,6 +403,7 @@ This README currently includes **285 ToolsFam tools** grouped by category. For t
 Comprehensive browser-based tool collections that cover multiple categories.
 
 - [Toolknit](https://toolknit.com) - Free online tools library with 90+ browser-based utilities for PDF, images, video, audio, text, calculators, and more. All tools run locally — no signup, no uploads required.
+- [Trencada Browser Suite](https://trencada.com/tools/) - 450+ privacy-first browser utilities powered by client-side HTML5 Canvas, WebAssembly, and Web Crypto API—including local [PDF Merging](https://trencada.com/tools/merge-pdf/), [PDF Compression](https://trencada.com/tools/compress-pdf/), [PDF Password Removal](https://trencada.com/tools/unlock-pdf-online-remove-password/), [HEIC/AVIF Image Conversion](https://trencada.com/tools/heic-to-jpg/), and [Offline JSON/YAML Formatting](https://trencada.com/tools/json-formatter/).
 - - [Trencada](https://trencada.com/) - Free online tools for PDF, images, text, files and conversion. No signup required.
 
 ## Related ToolsFam resources
